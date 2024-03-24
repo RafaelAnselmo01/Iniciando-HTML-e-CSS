@@ -1,0 +1,32 @@
+body {
+    font-family: 'Trebuchet MS';
+    background-image: url('https://cdn.fansshare.com/image/backgrounddesigns/black-background-hd-wallpaper-wallpaper-1206636067.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    color: white;
+}
+
+h1,
+h3 {
+    text-align: center;
+    background-color: bisque;
+}
+
+h1 {
+    color: blue;
+}
+
+h3 {
+    color: green;
+}
+p {
+    font-size: large;
+}
+.p2 {
+    font-size: x-large;
+    color: aqua;
+}
+.p3 {
+    font-family: fantasy;
+}
